@@ -1,0 +1,12 @@
+[submodule "execution-part01"]
+	path = execution-part01
+	url = https://github.com/RoRo-YoYo/nu-Python-program-execution-part01.git
+[submodule "execution-part02"]
+	path = execution-part02
+	url = https://github.com/RoRo-YoYo/nu-Python-program-execution-part02.git
+[submodule "memory-module"]
+	path = memory-module
+	url = https://github.com/RoRo-YoYo/nu-Python-memory-module.git
+[submodule "source-level-debugger"]
+	path = source-level-debugger
+	url = https://github.com/RoRo-YoYo/source-level-debugger-for-nuPython.git
